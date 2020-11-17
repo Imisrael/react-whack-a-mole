@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import mole from '../images/mole.svg';
+import mole from '../images/mole.jpg';
 import classnames from 'classnames';
 import './Hole.css';
 
