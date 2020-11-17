@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import mole from '../images/trump.png';
+import mole from '../images/trump-face.png';
 import classnames from 'classnames';
 import './Hole.css';
 
